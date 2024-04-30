@@ -1,0 +1,2 @@
+# PythonMachineLearningBeginner
+Python 机器学习是利用 Python 编程语言中的各种工具和库来实现机器学习算法和技术的过程。Python 是一种功能强大且易于学习和使用的编程语言，因此成为了机器学习领域的首选语言之一。这里我们一起开始一场Python 机器学习基础入门到精通学习旅程。
